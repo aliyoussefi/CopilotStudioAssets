@@ -416,3 +416,6 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+__azurite_db_table__.json
+AzuriteConfig
+docs/Untitled-3.js
